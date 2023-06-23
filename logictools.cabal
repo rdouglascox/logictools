@@ -28,6 +28,7 @@ library
       Lib
       LogicTools.Data.PLProp
       LogicTools.Enum.EnumPL
+      LogicTools.Forms.Forms
       LogicTools.Printers.LaTeXPLProp
       LogicTools.Printers.LaTeXTables
       LogicTools.Printers.Tables
