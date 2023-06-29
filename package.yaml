@@ -25,7 +25,6 @@ dependencies:
 - containers
 - boxes
 - array
-- unique
 
 ghc-options:
 - -Wall
