@@ -1,4 +1,4 @@
-module LogicTools.Forms.Forms (getforms) where
+module LogicTools.Forms.Forms where
 
 import LogicTools.Data.PLProp
 import Data.List
