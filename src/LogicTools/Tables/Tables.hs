@@ -1,7 +1,6 @@
 
 {- | 
 Module : Tables 
-Description: Functions for Building Truth Tables
 Copyright: (c) Ryan Cox, 2023
 License: GPL-3 
 

@@ -1,10 +1,10 @@
 name:                logictools
-version:             0.1.0.0
-github:              "githubuser/logictools"
+version:             0.1.2.0
+github:              "rdouglascox/logictools"
 license:             BSD3
-author:              "Author name here"
-maintainer:          "example@example.com"
-copyright:           "2023 Author name here"
+author:              "Ryan Cox"
+maintainer:          "ryandouglascox84@gmail.com"
+copyright:           "2023 Ryan Cox"
 
 extra-source-files:
 - README.md
@@ -25,6 +25,7 @@ dependencies:
 - containers
 - boxes
 - array
+- random
 
 ghc-options:
 - -Wall
